@@ -1,0 +1,9 @@
+data/
+reports/
+__pycache__/
+*.py[cod]
+*.sqlite3*
+*.tar.gz
+*.zip
+.venv/
+.env
