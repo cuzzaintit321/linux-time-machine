@@ -1,5 +1,7 @@
 # Linux Time Machine
 
+![linux-time-machine project banner](docs/project-banner.webp)
+
 A local web dashboard for snapshot history, file browsing, content comparisons, SHA-256 verification, and recovery into separate folders. Python standard library + SQLite + HTML/CSS/JavaScript, with an optional Docker Compose setup.
 
 Built as a new learning and portfolio project for Jason Edwards. It reuses the archive engine from the Backup & Restore Toolkit and adds a browser interface, history database, selected-file recovery, and local request protections. It has not been deployed on Jason's home server or used by an employer.
